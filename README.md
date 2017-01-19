@@ -18,3 +18,5 @@ HAKA_STUDENT_NUMBER_FIELD="http://schemas.xmlsoap.org/ws/2005/05/identity/claims
 ```
 
 SAML_IDP_CERT_FINGERPRINT above is for the default cert included in this project.
+
+See also the [HAKA / SAML documentation in hyy-vaalit](https://github.com/hyy-vaalit/dokumentaatio/tree/master/haka).
